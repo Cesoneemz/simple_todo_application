@@ -1,6 +1,6 @@
-/frontend/node_modules/
+/frontend/node_modules
 .env
 venv
-/project/.idea/
-/project/db.sqlite3/
+/project/.idea
+/project/db.sqlite3
 .idea
